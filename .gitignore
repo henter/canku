@@ -165,4 +165,4 @@ pip-log.txt
 # Visual Studio profiler
 .idea
 node_modules
-global.js
+#global.js
